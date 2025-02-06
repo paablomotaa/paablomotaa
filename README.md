@@ -11,7 +11,7 @@ Bienvenido a mi perfil de GitHub. Actualmente estudio un grado de Desarollo de A
 ## 🔧 Tecnologías que uso
 
 - 📱 **Frontend y App Development**: Kotlin (Jetpack Compose), Flutter
-- 💻 **Backend**: Java, Java con Maven, Jakarta, Hibernate
+- 💻 **Backend**: Java, Java con Maven, Jakarta, Hibernate, MySQL, MongoDB
 - 🎮 **Desarrollo de Videojuegos**: C#, Unity
 - 🌐 **Otras herramientas**: Git, Docker, Kubernetes
 

@@ -17,7 +17,7 @@ Bienvenido a mi perfil de GitHub. Actualmente estudio un grado de Desarollo de A
 
 ## 📈 Estadísticas
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=[TuUsername]&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+[Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=[TuUsername]&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
 ## 🌟 Contribuciones
 

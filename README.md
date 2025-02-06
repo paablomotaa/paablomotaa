@@ -6,7 +6,7 @@ Bienvenido a mi perfil de GitHub. Actualmente estudio un grado de Desarollo de A
 
 - 🌱 Actualmente aprendiendo sobre programación de videojuegos, aplicaciones en Android y Flutter,etc.
 - 🧠 Mi enfoque principal es la programación de aplicaciones nativas o multiplataforma de móvil, así como la automatización de las mismas.
-- 📫 Puedes contactarme en paablomotaa2005@gmail.com o a través de mi [[linkedin](https://www.linkedin.com/in/pablo-mota-malaga/)].
+- 📫 Puedes contactarme en paablomotaa2005@gmail.com o a través de mi [linkedin](https://www.linkedin.com/in/pablo-mota-malaga/).
 
 ## 🔧 Tecnologías que uso
 
@@ -22,5 +22,5 @@ Bienvenido a mi perfil de GitHub. Actualmente estudio un grado de Desarollo de A
 ## 📬 Contacto
 
 - 📧 Email: paablomotaa2005@gmail.com
-- 🌍 LinkedIn: [[Perfil de linkedin](https://www.linkedin.com/in/pablo-mota-malaga/)]
+- 🌍 LinkedIn: [Perfil de linkedin](https://www.linkedin.com/in/pablo-mota-malaga/)
 

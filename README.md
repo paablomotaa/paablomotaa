@@ -2,9 +2,11 @@
   <img src="banner.svg" alt="Pablo Mota Banner">
 </p>
 
-| 💻 Languages | 🛠️ Technologies | 🗄️ Databases |
 |:---:|:---:|:---:|
-| Kotlin | Android | PostgreSQL |
+| <p align="center">
+  <img src="banner.svg" alt="Pablo Mota Banner">
+</p>
+ | Android | PostgreSQL |
 | Java | Jetpack Compose | MariaDB |
 | C# | Flutter | MongoDB |
 | Python | Firebase | SQL |

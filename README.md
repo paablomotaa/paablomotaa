@@ -1,15 +1,4 @@
-<p align="center">
-  <img src="banner.svg" alt="Pablo Mota Banner">
-</p>
-
-|:---:|:---:|:---:|
-| <p align="center">
-  <img src="banner.svg" alt="Pablo Mota Banner">
-</p>
- | Android | PostgreSQL |
-| Java | Jetpack Compose | MariaDB |
-| C# | Flutter | MongoDB |
-| Python | Firebase | SQL |
+![Banner](./banner.svg)
 
 ## 📬 Contacto
 

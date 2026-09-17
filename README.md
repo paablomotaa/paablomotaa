@@ -2,7 +2,7 @@
 
 ## 👤 About me
 
-
+Hi, I'm Pablo and I'm actually studying DAW in IES Belén.
 
 ## 👨🏻‍💻 Tecnologies
 

@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="banner.svg" alt="Pablo Mota Banner">
+</p>
 
 ## 🚀 Sobre mí
 

@@ -1,6 +1,6 @@
 ![Banner](./banner.svg)
 
-## Tecnologies
+## 👨🏻‍💻 Tecnologies
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -14,7 +14,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 
-## 📬 Contacto
+## 📬 Contact
 
 - 📧 Email: paablomotaa2005@gmail.com
 - 🌍 LinkedIn: [Perfil de linkedin](https://www.linkedin.com/in/pablo-mota-malaga/)

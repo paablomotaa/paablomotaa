@@ -1,5 +1,9 @@
 ![Banner](./banner.svg)
 
+## 👤 About me
+
+
+
 ## 👨🏻‍💻 Tecnologies
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)

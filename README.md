@@ -21,4 +21,6 @@ I previously studied Multiplatform Application Development (DAM) andAI & Big Dat
 - 📧 Email: paablomotaa2005@gmail.com
 - 🌍 LinkedIn: [LinkedIn](https://www.linkedin.com/in/pablo-mota-malaga/)
 
-![Image](./davidcyberpunk.jpg)
+<p align="center">
+  <img src="./davidcyberpunk.jpg" width="200">
+</p>

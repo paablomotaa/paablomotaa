@@ -10,24 +10,12 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-<table style="border: none;">
-<tr>
-<td width="60%">
+<table>
+## 👨🏻‍💻 About me
+Hi! I'm Pablo, a Software Development student from Málaga, Spain, currently studying Web Application Development (DAW) at IES Belén. I enjoy building applications, exploring new technologies, and turning
+ideas into real projects. My main interests are software development, databases, mobile applications, and AI.
 
-### 👨🏻‍💻 About me
-
-Hi! I'm Pablo, a Software Development student from Málaga, Spain.
-
-I enjoy building applications, exploring new technologies, and turning ideas into real projects.
-
-</td>
-<td width="40%">
-
-<img src="./davidcyberpunk.jpg" width="350">
-
-</td>
-</tr>
-</table>
+I previously studied Multiplatform Application Development (DAM) andAI & Big Data, where I worked with technologies such as Kotlin, Java, C#, Python, SQL, Flutter, Firebase, and Odoo. I'm currently focused on improving my development skills, building personal projects, and learning something new with every project I work on. 🚀
 
 ## 📬 Contact
 

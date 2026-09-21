@@ -14,16 +14,31 @@
   <tr>
     <td width="50%" valign="top">
 
-## 👨🏻‍💻 About me
+      <h2>👨🏻‍💻 About me</h2>
 
-Hi! I'm Pablo, a Software Development student from Málaga, Spain, currently studying Web Application Development (DAW) at IES Belén.
-I enjoy building applications, exploring new technologies, and turning ideas into real projects. My main interests are software development, databases, mobile applications, and AI.
+      <p>
+        Hi! I'm Pablo, a Software Development student from Málaga, Spain,
+        currently studying Web Application Development (DAW) at IES Belén.
+        I enjoy building applications, exploring new technologies, and turning
+        ideas into real projects. My main interests are software development,
+        databases, mobile applications, and AI.
+      </p>
 
-I previously studied Multiplatform Application Development (DAM) and AI & Big Data, where I worked with technologies such as Kotlin, Java, C#, Python, SQL, Flutter, Firebase, and Odoo.
-I'm currently focused on improving my development skills, building personal projects, and learning something new with every project I work on. 🚀
+      <p>
+        I previously studied Multiplatform Application Development (DAM) and
+        AI & Big Data, where I worked with technologies such as Kotlin, Java,
+        C#, Python, SQL, Flutter, Firebase, and Odoo.
+      </p>
+
+      <p>
+        I'm currently focused on improving my development skills, building
+        personal projects, and learning something new with every project I
+        work on. 🚀
+      </p>
 
     </td>
-    <td width="50%" align="center">
+
+    <td width="50%" align="center" valign="middle">
 
       <img src="./davidcyberpunk.jpg" width="400">
 

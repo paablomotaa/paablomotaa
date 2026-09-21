@@ -25,7 +25,7 @@ I'm currently focused on improving my development skills, building personal proj
     </td>
     <td width="50%" align="center">
 
-      <img src="" width="400">
+      <img src="davidcyberpunk.jpg" width="400">
 
     </td>
   </tr>

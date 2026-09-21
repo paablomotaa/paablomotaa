@@ -10,7 +10,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-## 👨🏻‍💻 About me
+## 👨🏻‍💻 About me | ![Captura de mi portfolio](kanekipixelart.jpg)
 
 Hi! I'm Pablo, a Software Development student from Málaga, Spain, currently studying Web Application Development (DAW) at IES Belén.
 I enjoy building applications, exploring new technologies, and turning ideas into real projects. My main interests are software development, databases, mobile applications, and AI.

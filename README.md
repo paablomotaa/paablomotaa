@@ -22,10 +22,10 @@ I enjoy building applications, exploring new technologies, and turning ideas int
 I previously studied Multiplatform Application Development (DAM) and AI & Big Data, where I worked with technologies such as Kotlin, Java, C#, Python, SQL, Flutter, Firebase, and Odoo.
 I'm currently focused on improving my development skills, building personal projects, and learning something new with every project I work on. 🚀
 
-</td>
+    </td>
     <td width="50%" align="center">
 
-<img src="kanekiken.jpg" width="400">
+      <img src="" width="400">
 
     </td>
   </tr>
